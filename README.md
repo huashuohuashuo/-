@@ -1,2 +1,2 @@
 # -
-四川师范大学物理与电子工程学院硕士研究生计算物理牛顿科斯特计算积分作业代码
+Newton - Cotes 数值积分(The Homework For the Department of Physics in Sichuan Normal University)
